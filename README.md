@@ -1,6 +1,6 @@
 # Hi, I'm Shatha Alharbi 
 
-Information Systems graduate from Princess Nourah University with interests in digital transformation, accessibility, AI-assisted solutions, and data analytics.
+Information Systems fresh graduate from Princess Nourah University with interests in digital transformation, accessibility, AI-assisted solutions, and data analytics.
 
 ## Areas of Interest
 - Data Analytics
