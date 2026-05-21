@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Shatha Alharbi 👋
 
-<!--
-**Shatha1Alharbi/Shatha1Alharbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Systems graduate from Princess Nourah University with interests in digital transformation, accessibility, AI-assisted solutions, and data analytics.
 
-Here are some ideas to get you started:
+## Areas of Interest
+- Data Analytics
+- AI-powered Solutions
+- Digital Accessibility
+- Business Systems
+- UX & User-Centered Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools & Technologies
+- Python
+- SQL
+- Power BI
+- Figma
+- HTML/CSS
+- Open edX
+
+## Projects
+- Rafad – Smart Healthcare Application
+- Hawn – AI-powered Medical Visit Summarization System
+- Healthcare Predictive Modeling
+- Riyadh Metro Risk Management Plan
+
+## Connect with me
+- LinkedIn: [www.linkedin.com/in/shathasalharbi]
